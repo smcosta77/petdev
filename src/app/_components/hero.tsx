@@ -34,7 +34,7 @@ export function Hero() {
                         </p>
 
                         <a
-                            href={`https://wa.me/351911508619?text=Olá vim pelo site e gostaria de mais informações`}
+                            href={`https://wa.me/351938175122?text=Olá vim pelo site e gostaria de mais informações`}
                             target='_blank'
                             className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
                             data-aos="fade-up"
@@ -47,7 +47,7 @@ export function Hero() {
 
                         <div className="mt-8">
                             <p className="text-sm mb-4">
-                                <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> de desconto na primeira compra.
+                                <b className="bg-black text-white px-2 py-1 rounded-md">15%</b> de desconto na primeira compra.
                             </p>
                             <div className="flex mt-4">
                                 <div className="w-32 hidden lg:block">
