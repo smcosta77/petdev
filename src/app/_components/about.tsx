@@ -55,14 +55,14 @@ export function About() {
             </ul>
 
             <div className='flex gap-2'>
-              <a href={`https://wa.me/351911508619?text=Olá vim pelo site e gostaria de mais informações`}
+              <a href={`https://wa.me/351938175122?text=Olá vim pelo site e gostaria de mais informações`}
                 target='_blank'
                 className='bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md'
               >
                 <WhatsappLogo className='w-5 h-5 text-white' />
                 Contato via WhatsApp
               </a>
-              <a href={`https://www.google.pt/maps/place/SK+Nails/@38.7037002,-8.970513,17z/data=!4m14!1m7!3m6!1s0xd1939f68df592a1:0xf967de5c2fbb4e5e!2sSK+Nails!8m2!3d38.703696!4d-8.9679381!16s%2Fg%2F11vygtbmxq!3m5!1s0xd1939f68df592a1:0xf967de5c2fbb4e5e!8m2!3d38.703696!4d-8.9679381!16s%2Fg%2F11vygtbmxq?entry=ttu&g_ep=EgoyMDI1MDIyNS4wIKXMDSoASAFQAw%3D%3D`}
+              <a href={`https://www.google.pt/maps/place/R.+Domenico+Sarri,+09+-+Jardim+Myrna,+S%C3%A3o+Paulo+-+SP,+04856-180,+Brasil/@-23.7713022,-46.7001298,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce48c572533e43:0xb883c928962eadaf!8m2!3d-23.7713071!4d-46.6975549!16s%2Fg%2F11c5dctg_n?hl=pt-PT&entry=ttu&g_ep=EgoyMDI1MDIyNi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D`}
                 target='_blank'
                 className='flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md'
               >

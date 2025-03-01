@@ -89,7 +89,7 @@ export function Service() {
                         <span>{item.duration}</span>
                       </div>
                       <a
-                        href={`https://wa.me/351911508619?text=Olá vim pelo site e gostaria de mais informações sobre ${item.title}`}
+                        href={`https://wa.me/351938175122?text=Olá vim pelo site e gostaria de mais informações sobre ${item.title}`}
                         target='_blank'
                         className="flex items-center justify-center gap-2 hover:bg-red-400 px-4 py-1 rounded-md duration-300"
                       >

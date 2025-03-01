@@ -54,7 +54,7 @@ export function Footer() {
             <h3 className='text-2xl font-semibold mb-2'>Pet Shop</h3>
             <p className='mb-4'>Cuidar do seu melhor amigo com amor e dedicação.</p>
             <a
-              href={`https://wa.me/351911508619?text=Olá vim pelo site e gostaria de mais informações`}
+              href={`https://wa.me/351938175122?text=Olá vim pelo site e gostaria de mais informações`}
               target='_blank'
               className='bg-green-500 px-4 py-2 rounded-md'
             >
@@ -65,18 +65,18 @@ export function Footer() {
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Contactos</h3>
             <p className=''>E-mail: teste@gmail.com</p>
-            <p className=''>Telefone: 918 803 517</p>
-            <p className=''>Morada: Rua José Joaquim Marques 181B, 2870-459 Montijo</p>
+            <p className=''>Telefone: 938 175 122</p>
+            <p className=''>Morada: Rua Domenico Sarri 09, 2870-459 Jd. Mirna</p>
           </div>
 
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Redes Socias</h3>
             <div className='flex gap-4'>
-              <a href={`https://m.facebook.com/sknailsmontijo?locale=br_FR&_rdr`} target='_blank'
+              <a href={`#`} target='_blank'
               >
                 <FacebookLogo className='w-8 h-8' />
               </a>
-              <a href={`https://www.instagram.com/explore/locations/525453001194164/sk-nails-montijo/`} target='_blank'>
+              <a href={`#`} target='_blank'>
                 <InstagramLogo className='w-8 h-8' />
               </a>
               <a href='#' target='_blank'>
